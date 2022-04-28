@@ -1,0 +1,6 @@
+{
+	"appId": "com.diego.app",
+	"appName": "chat",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
